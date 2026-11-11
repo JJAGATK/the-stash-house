@@ -313,7 +313,7 @@ export function BarSection() {
                 src={selectedCocktail.image}
                 alt={selectedCocktail.name}
                 fill
-                priority
+                loading="lazy"
                 sizes="700px"
                 className="object-cover object-center"
               />

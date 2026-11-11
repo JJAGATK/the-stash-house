@@ -25,7 +25,7 @@
   body {
     background-color: var(--bg-dark);
     color: var(--text-primary);
-    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    font-family: var(--font-sans), 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
     overflow-x: hidden;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -62,14 +62,14 @@
 
 /* Luxury Editorial & Serifs */
 .font-script {
-  font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+  font-family: var(--font-serif), 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
   font-style: italic;
   font-weight: 500;
   letter-spacing: 0.02em;
 }
 
 .font-serif-luxury {
-  font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+  font-family: var(--font-serif), 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
   letter-spacing: 0.015em;
 }
 

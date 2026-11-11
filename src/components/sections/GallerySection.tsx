@@ -164,7 +164,7 @@ export function GallerySection() {
                 fill
                 sizes="90vw"
                 className="object-contain"
-                priority
+                loading="lazy"
               />
             </div>
             <div className="mt-4 text-center">

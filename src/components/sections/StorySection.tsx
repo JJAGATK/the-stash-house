@@ -26,7 +26,7 @@ export function StorySection() {
                   fill
                   sizes="(max-width: 768px) 100vw, 50vw"
                   className="object-cover group-hover:scale-105 transition-transform duration-700"
-                  priority
+                  loading="lazy"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#07090E]/90 via-[#07090E]/20 to-transparent" />
 
