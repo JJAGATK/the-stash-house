@@ -41,7 +41,7 @@ export function EventsSection({ onOpenBookingModal }: EventsSectionProps) {
 
               <div className="relative aspect-[4/3] rounded-3xl overflow-hidden border border-amber-500/30 shadow-[0_25px_60px_rgba(0,0,0,0.9)] bg-slate-900 group">
                 <Image
-                  src="/images/luxury/private-gathering-table.jpg"
+                  src="/images/luxury/private-dining-banquet.jpg"
                   alt="Private dining and group gathering setup at The Stash House Haridwar"
                   fill
                   sizes="(max-width: 768px) 100vw, 50vw"

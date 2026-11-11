@@ -82,7 +82,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: "gal-10",
-    src: "/images/luxury/luxury-dessert-mousse.jpg",
+    src: "/images/luxury/belgian-chocolate-mousse.jpg",
     alt: "Decadent dark Belgian chocolate mousse cake with rich chocolate glaze",
     title: "Belgian Chocolate Decadence",
     category: "food",
@@ -90,7 +90,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: "gal-11",
-    src: "/images/luxury/private-gathering-table.jpg",
+    src: "/images/luxury/private-dining-banquet.jpg",
     alt: "Dedicated steward service preparing gourmet courses for private dining gatherings",
     title: "Private Dining Suite",
     category: "gatherings",
